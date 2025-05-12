@@ -1,4 +1,4 @@
-# Graphical Password Authentication Server
+# Captcha as Graphical Password Authentication Server
 
 Graphical Password Authentication Server is a Node.js-based web application that provides API endpoints for the client to create and authenticate with image passwords in combination with alphanumeric passwords. This project is built with Express.js and uses MongoDB for database storage.
 
